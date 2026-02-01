@@ -1,0 +1,752 @@
+{
+    "Hort\u00e8nsia": {
+        "seed_price": 4.2,
+        "seed_url": "https://www.amazon.es/Semillas-Hortensia-Mixta-Hydrangea-Viburnum/dp/B07K5MD717",
+        "plant_price": 11.88,
+        "plant_url": "https://www.amazon.es/Peonias-Plantas-exterior-naturales-decorativa/dp/B091HVB5GT"
+    },
+    "Cam\u00e8lia": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Miramelindos-Camelia-Balsamina/dp/B00WI66GXY",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "F\u00facsia": {
+        "seed_price": 4.55,
+        "seed_url": "https://www.amazon.es/SAFLAX-Trompeta-semillas-Brugmansia-suaveolens/dp/B00TWAKCMA",
+        "plant_price": 1.0,
+        "plant_url": "https://www.amazon.es/PERZOE-semillas-blancas-rosadas-decoraci%C3%B3n/dp/B0CGM76PS8"
+    },
+    "Beg\u00f2nia": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Ciclamen": {
+        "seed_price": 2.0,
+        "seed_url": "https://www.amazon.es/Semillas-Fit%C3%B3-480-Ciclamen-Variado/dp/B074P3MJP6",
+        "plant_price": 5.9399999999999995,
+        "plant_url": "https://www.amazon.es/dp/B0GKFLKS8C"
+    },
+    "Astilbe": {
+        "seed_price": 5.85,
+        "seed_url": "https://www.amazon.es/mariposas-semillas-decoraci%C3%B3n-silvestres-primavera/dp/B0GFVWFTGJ",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/purificadora-interiores-luminosos-interior-resistente/dp/B0DNNH67PJ"
+    },
+    "Digital": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Digitalis-Dedalera-excelsior/dp/B00WI61D5U",
+        "plant_price": 21.38,
+        "plant_url": "https://www.amazon.es/dp/B0FNQSCC63"
+    },
+    "Impatiens": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/Semilla-Impatiens-h%C3%ADbrido-variado-Semillas/dp/B079X2Z55D",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Hosta": {
+        "seed_price": 1.55,
+        "seed_url": "https://www.amazon.es/Rotyroya-Semillas-Decorativo-Atractivo-Plantaginea/dp/B0BYDSPR3L",
+        "plant_price": 1.55,
+        "plant_url": "https://www.amazon.es/Rotyroya-Semillas-Decorativo-Atractivo-Plantaginea/dp/B0BYDSPR3L"
+    },
+    "Vinca minor": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Vinca-Madagascar-Batlle/dp/B00WI65838",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Pr\u00edmula": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Primavera-Jardines-variada/dp/B00WI67OTY",
+        "plant_price": 6.04,
+        "plant_url": "https://www.amazon.es/semillas-orqu%C3%ADdea-medicinales-silvestres-cobertura/dp/B0GJ9WKDRQ"
+    },
+    "Aquilegia": {
+        "seed_price": 1.71,
+        "seed_url": "https://www.amazon.es/Semillas-Arom%C3%A1ticas-Poleo-Menta-Batlle/dp/B00KM27YZU",
+        "plant_price": 5.2,
+        "plant_url": "https://www.amazon.es/Hierbabuena-Maceta-19-Planta-aromatica/dp/B07B7PST75"
+    },
+    "Lobelia": {
+        "seed_price": 2.7,
+        "seed_url": "https://www.amazon.es/Germisem-Crystal-Palace-Semillas-Lobelia/dp/B08RTN8Y97",
+        "plant_price": 6.05,
+        "plant_url": "https://www.amazon.es/semillas-medicinales-ex%C3%B3ticas-interior-soleados/dp/B0GJS469BN"
+    },
+    "Calceolaria": {
+        "seed_price": 5.95,
+        "seed_url": "https://www.amazon.es/zapatilla-perennes-decoraci%C3%B3n-Calceolaria-herbeohybrida/dp/B0G58HCM44",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Trillium": {
+        "seed_price": 1.35,
+        "seed_url": "https://www.amazon.es/SEMILLAS-BATLLE-SANTIAGO-Multicolor-15x8-5x3/dp/B00KM2BQ54",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Hypoestes-Naturales-Interior-Pur-Plant/dp/B0DNNGVH3K"
+    },
+    "Convallaria": {
+        "seed_price": 1.6,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Petunia-variada-Batlle/dp/B0787MWSTL",
+        "plant_price": 7.99,
+        "plant_url": "https://www.amazon.es/Haworthia-Natural-Interior-Pur-Plant/dp/B0DNNDH1KL"
+    },
+    "Saxifraga": {
+        "seed_price": 5.88,
+        "seed_url": "https://www.amazon.es/semillas-saxifragas-ex%C3%B3ticas-resistentes-perennes/dp/B0G134YPM6",
+        "plant_price": 8.0,
+        "plant_url": "https://www.amazon.es/Aloe-Vera-S%C3%A1bila-Natural-interior/dp/B0BFN9FJ8P"
+    },
+    "Pulmonaria": {
+        "seed_price": 5.86,
+        "seed_url": "https://www.amazon.es/pulmonaria-primavera-Cobertura-resistente-decoraci%C3%B3n/dp/B0GJZL48W6",
+        "plant_price": 5.86,
+        "plant_url": "https://www.amazon.es/pulmonaria-primavera-Cobertura-resistente-decoraci%C3%B3n/dp/B0GJZL48W6"
+    },
+    "Bergenia": {
+        "seed_price": 5.9399999999999995,
+        "seed_url": "https://www.amazon.es/semillas-bergenia-decoraci%C3%B3n-contenedores-resistentes/dp/B0FX8Z4HG6",
+        "plant_price": 7.99,
+        "plant_url": "https://www.amazon.es/Haworthia-Natural-Interior-Pur-Plant/dp/B0DNNDH1KL"
+    },
+    "Brunnera macrophylla": {
+        "seed_price": 2.7,
+        "seed_url": "https://www.amazon.es/Germisem-Carpatica-Semillas-Campanula-EC1511/dp/B08RTGSK48",
+        "plant_price": 7.99,
+        "plant_url": "https://www.amazon.es/Euphorbia-Millii-Natural-Pur-Plant/dp/B0DNNF2QP9"
+    },
+    "Torenia": {
+        "seed_price": 6.02,
+        "seed_url": "https://www.amazon.es/dp/B0GKM42125",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Calathea-Roseopicta-Natural-Pur-Plant/dp/B0DVQ821YN"
+    },
+    "Anemone de bosc": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/Semilla-Begonia-semperflorens-variada-Semillas/dp/B079X41F1P",
+        "plant_price": 7.5,
+        "plant_url": "https://www.amazon.es/BULBO-ANEMONA-DOBLE-SANTA-BRIGIDA/dp/B07B23693B"
+    },
+    "Dicentra": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 13.99,
+        "plant_url": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTI3Njk1MTQwMDQyNDMwOjE3Njk5NTUzMjE6c3BfYnRmOjMwMDQzMTAxOTEyNDczMjo6MDo6&url=%2FGemeiner-Efeu-verde-Hedera-di%25C3%25A1metro%2Fdp%2FB086BS3TVR%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dplanta%2Bnatural%2BDicentra%26qid%3D1769955320%26sr%3D8-1-spons%26aref%3DIoSFs26F3i%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=IoSFs26F3i&sp_cr=ZAZ"
+    },
+    "Heleborus": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Pieris japonica": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 11.0,
+        "plant_url": "https://www.amazon.es/Sansevieria-interior-sanseviera-decoracion-ambiente/dp/B0CDJ3FC14"
+    },
+    "Rosa": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/bolso-Semillas-livianas-r%C3%BAsticas-balc%C3%B3n/dp/B09VDG75DN",
+        "plant_price": 2.12,
+        "plant_url": "https://www.amazon.es/Plantas-naturales-exterior-Lirios-perenne/dp/B08Y98H38J"
+    },
+    "Gerani": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/Semillas-Fit%C3%B3-Geranio-Zonale-Variado/dp/B01IDLDF68",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Clem\u00e0tide": {
+        "seed_price": 6.11,
+        "seed_url": "https://www.amazon.es/Semillas-clem%C3%A1tide-Clematis-Resistente-resistentes/dp/B0G63DD15X",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Phlox paniculata": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/PERZOE-Semillas-decoraci%C3%B3n-enredadera-cubierta/dp/B0CFYC1N5T",
+        "plant_price": 22.95,
+        "plant_url": "https://www.amazon.es/dp/B0GK9CHXDK"
+    },
+    "S\u00e0lvia": {
+        "seed_price": 1.55,
+        "seed_url": "https://www.amazon.es/Semillas-Fit%C3%B3-2607-Salvia-Officinalis/dp/B017BQL36K",
+        "plant_price": 2.25,
+        "plant_url": "https://www.amazon.es/Salvia-Maceta-10-Planta-aromatica/dp/B07B7Q347N"
+    },
+    "Campaneta": {
+        "seed_price": 1.6,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Petunia-variada-Batlle/dp/B0787MWSTL",
+        "plant_price": 12.95,
+        "plant_url": "https://www.amazon.es/Campanula-Natural-Interior-Exterior-Campanilla/dp/B0BMM6CQ6M"
+    },
+    "Heuchera": {
+        "seed_price": 1.72,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Crisantemo-Tricolor-variado/dp/B00WI4DRQU",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/purificadora-interiores-luminosos-interior-resistente/dp/B0DNNH67PJ"
+    },
+    "Delphinium": {
+        "seed_price": 4.2,
+        "seed_url": "https://www.amazon.es/150-Semillas-Delphinium-Espuela-caballero/dp/B09C3SKX25",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Lupinus": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Lupinus-perenne-variado/dp/B00WI64HGM",
+        "plant_price": 7.9,
+        "plant_url": "https://www.amazon.es/natural-halepensis-carrasco-crecimiento-biodiversidad/dp/B0DQ2KSVCZ"
+    },
+    "Monarda": {
+        "seed_price": 5.89,
+        "seed_url": "https://www.amazon.es/Monarda-silvestres-semillas-oficina-cortadas/dp/B0GH6C63VP",
+        "plant_price": 4.6,
+        "plant_url": "https://www.amazon.es/Campanilla-morada-Ipomea-purpurea-org%C3%A1nica/dp/B09XQYX3RH"
+    },
+    "Astrantia": {
+        "seed_price": 23.89,
+        "seed_url": "https://www.amazon.es/Astaxantina-Vitamina-C%C3%A1psulas-Suplemento-Antioxidante/dp/B0FTZ9SKJF",
+        "plant_price": 15.0,
+        "plant_url": "https://www.amazon.es/Planta-Grasa-Opuntia-Indica-Jarr%C3%B3n/dp/B0GDTXYJ8X"
+    },
+    "Echinacea": {
+        "seed_price": 3.99,
+        "seed_url": "https://www.amazon.es/Germisem-Org%C3%A1nica-Echinacea-Purpurea-Equin%C3%A1ceas/dp/B08Q5PDC3C",
+        "plant_price": 2.25,
+        "plant_url": "https://www.amazon.es/Romero-alto-Maceta-10-aromatica/dp/B07B7Q5TKR"
+    },
+    "Rudbeckia": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Rudbeckia-gigante-variada/dp/B00WI67TV2",
+        "plant_price": 7.99,
+        "plant_url": "https://www.amazon.es/Pumila-Planta-Natural-Pur-Plant/dp/B0DVM1ND48"
+    },
+    "Agastache": {
+        "seed_price": 1.6,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Petunia-variada-Batlle/dp/B0787MWSTL",
+        "plant_price": 7.99,
+        "plant_url": "https://www.amazon.es/Haworthia-Natural-Interior-Pur-Plant/dp/B0DNNDH1KL"
+    },
+    "Penstemon": {
+        "seed_price": 2.04,
+        "seed_url": "https://www.amazon.es/Batlle-095915BOLS-Semillas-Penstemon-variado/dp/B00L2IOHWQ",
+        "plant_price": 15.0,
+        "plant_url": "https://www.amazon.es/Planta-Lim%C3%B3n-Roca-Imperial-Fitocella/dp/B0GF337PY6"
+    },
+    "Scabiosa": {
+        "seed_price": 6.03,
+        "seed_url": "https://www.amazon.es/Semillas-invitados-escabiosa-invernaderos-resistentes/dp/B0G4LW417Y",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Hypoestes-Naturales-Interior-Pur-Plant/dp/B0DNNGVH3K"
+    },
+    "Veronicastrum": {
+        "seed_price": 6.1,
+        "seed_url": "https://www.amazon.es/dp/B0GK8722YD",
+        "plant_price": 14.95,
+        "plant_url": "https://www.amazon.es/dp/B0GKBSJKG7"
+    },
+    "Aconitum": {
+        "seed_price": 3.99,
+        "seed_url": "https://www.amazon.es/Ac%C3%B3nito-amarillo-Aconitum-lycoctonum-semillas/dp/B0CPQ47353",
+        "plant_price": 2.35,
+        "plant_url": "https://www.amazon.es/Ruda-Maceta-10-Planta-aromatica/dp/B07B7Q7Z1S"
+    },
+    "An\u00e8mone japonesa": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Thalictrum": {
+        "seed_price": 5.88,
+        "seed_url": "https://www.amazon.es/Semillas-Thalictrum-aquilegifolium-elevadas-interior/dp/B0G2BSB563",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Hypoestes-Naturales-Interior-Pur-Plant/dp/B0DNNGVH3K"
+    },
+    "Trollius": {
+        "seed_price": 3.99,
+        "seed_url": "https://www.amazon.es/Germisem-Org%C3%A1nica-Tropaeolum-Nasturtium-ECBIO1598/dp/B08Q5MLNC4",
+        "plant_price": 9.58,
+        "plant_url": "https://www.amazon.es/NATURAL-PALMERA-CHAMAEDOREA-ELEGANS-INTERIOR/dp/B09X7794ZW"
+    },
+    "Meconopsis": {
+        "seed_price": 13.99,
+        "seed_url": "https://www.amazon.es/seedsown-Semillas-Meconopsis-Keillour-Violet/dp/B07QPTJY98",
+        "plant_price": 2.95,
+        "plant_url": "https://www.amazon.es/Incienso-planta-dinero-matizada-Maceta/dp/B07B7PRCWB"
+    },
+    "Ligularia": {
+        "seed_price": 1.6,
+        "seed_url": "https://www.amazon.es/Semillas-Hort%C3%ADcolas-Lechuga-Inverna-Superinverna/dp/B00ID4T58I",
+        "plant_price": 18.95,
+        "plant_url": "https://www.amazon.es/dp/B0GKB2HG1K"
+    },
+    "Chelone": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 14.95,
+        "plant_url": "https://www.amazon.es/Claveles-Colores-Natural-Vibrantes-Jardiner%C3%ADa/dp/B0DWFK7CT1"
+    },
+    "Physostegia": {
+        "seed_price": 1.99,
+        "seed_url": "https://www.amazon.es/ZenGreens%C2%AE-Semillas-ecol%C3%B3gicas-f%C3%A1cilmente-principiantes/dp/B0DVSPNQ33",
+        "plant_price": 15.95,
+        "plant_url": "https://www.amazon.es/Exterior-Verbena-Ratrera-Hybrida-Colores/dp/B0BTMP84VS"
+    },
+    "Lavanda": {
+        "seed_price": 2.4,
+        "seed_url": "https://www.amazon.es/Semillas-ECOLOGICAS-Lavanda-0-2-gr/dp/B01NBP5VKP",
+        "plant_price": 7.9,
+        "plant_url": "https://www.amazon.es/Lavandula-Angustifolia-relajante-polinizadores-resistente/dp/B0DQ28HC77"
+    },
+    "Roman\u00ed": {
+        "seed_price": 1.5,
+        "seed_url": "https://www.amazon.es/SEMILLAS-LECHUGA-ROMANA-PARRIS-ISLAND/dp/B0844KTTN4",
+        "plant_price": 6.01,
+        "plant_url": "https://www.amazon.es/dp/B0GKLD18BS"
+    },
+    "Pet\u00fania": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/Semilla-Petunia-flor-gigante-variada/dp/B079X2FCTM",
+        "plant_price": 5.87,
+        "plant_url": "https://www.amazon.es/dp/B0GK8NJR1Z"
+    },
+    "Z\u00ednnia": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Zinnia-Gigante-variada/dp/B00ID4OSTO",
+        "plant_price": 1.88,
+        "plant_url": "https://www.amazon.es/Semillas-Flores-Zinnia-Gigante-variada/dp/B00ID4OSTO"
+    },
+    "Girasol": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Hort%C3%ADcolas-Girasol-pipas-Batlle/dp/B00ID4ORYK",
+        "plant_price": 1.0,
+        "plant_url": "https://www.amazon.es/Semillas-Hort%C3%ADcolas-Girasol-pipas-Batlle/dp/B00ID4ORYK"
+    },
+    "Gaz\u00e0nia": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Gazania-h%C3%ADbrida-splendens/dp/B00WI62QVA",
+        "plant_price": 9.9,
+        "plant_url": "https://www.amazon.es/Crataegus-Monogyna-biodiversidad-naturales-resistente/dp/B0DPXWMTTY"
+    },
+    "Cal\u00e8ndula": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/Semillas-Fit%C3%B3-Cal%C3%A9ndula-Doble-Variada/dp/B01IDLELZC",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Clavell de moro": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 12.95,
+        "plant_url": "https://www.amazon.es/DECOALIVE-Clavel-Planta-Natural-Tillandsia/dp/B0BB3GH8YF"
+    },
+    "Hibisc": {
+        "seed_price": 2.85,
+        "seed_url": "https://www.amazon.es/Semillas-de-Hibisco-Hibiscus-syriacus/dp/B07NMRVJSX",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Baladre": {
+        "seed_price": 24.99,
+        "seed_url": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToyMDMyMTkwNjEwMjU0OTU3OjE3Njk5NTU3ODk6c3BfYnRmOjMwMDY0NzgyOTI5NDQzMjo6MDo6&url=%2FSHOP-Semillas-Trifolium-Transitable-Cubresuelos%2Fdp%2FB0FHR3WMW2%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dsemillas%2BBaladre%26qid%3D1769955789%26sr%3D8-1-spons%26aref%3DYgftXUrbzP%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=YgftXUrbzP&sp_cr=ZAZ",
+        "plant_price": 11.5,
+        "plant_url": "https://www.amazon.es/pcmoviles-Grassula-soluci%C3%B3n-ambiente-saludable/dp/B0CT67FTTK"
+    },
+    "Buguenv\u00edl\u00b7lea": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/SATURNIA-Semillas-Huerto-Guisantes-Tirabeques/dp/B0B3F9MK7P",
+        "plant_price": 6.1,
+        "plant_url": "https://www.amazon.es/Semillas-delfinio-semillas-org%C3%A1nicas-Resistente/dp/B0GJD7KSRX"
+    },
+    "Lantana": {
+        "seed_price": 5.36,
+        "seed_url": "https://www.amazon.es/Semillas-lantana-resistentes-semillas-invernaderos/dp/B0FWBJG37L",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Verbena": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/Semillas-Fit%C3%B3-606-Verbena-H%C3%ADbrida/dp/B0756FV7NL",
+        "plant_price": 14.91,
+        "plant_url": "https://www.amazon.es/Exterior-Verbena-Hybrida-Colores-Natural/dp/B0BTMQ3QGJ"
+    },
+    "Coreopsis": {
+        "seed_price": 6.06,
+        "seed_url": "https://www.amazon.es/semillas-resistentes-jard%C3%ADn-coreopsis-silvestres/dp/B0GFSK74TL",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Plantas-Naturales-Interior-Pur-Plant/dp/B0DNNGGMDR"
+    },
+    "Gaillardia": {
+        "seed_price": 4.75,
+        "seed_url": "https://www.amazon.es/100-Semillas-Gaillarde-SemiSauvage-Permaculture/dp/B0DNNFZ2RM",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Aster": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Aster-Alpino-Batlle/dp/B016Q14Z7K",
+        "plant_price": 1.88,
+        "plant_url": "https://www.amazon.es/Semillas-Flores-Scandens-trepadora-violeta/dp/B016Q15FFQ"
+    },
+    "Crisantem": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/Semilla-Crisantemo-variado-Semillas-Fit%C3%B3/dp/B079X2CRRD",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Margarida del Cap": {
+        "seed_price": 5.96,
+        "seed_url": "https://www.amazon.es/semillas-margarita-interior-resistentes-perennes/dp/B0GHQP94TJ",
+        "plant_price": 6.09,
+        "plant_url": "https://www.amazon.es/margarita-Cobertura-resistente-resistentes-primavera/dp/B0GJ2XKVWY"
+    },
+    "Gitaneta": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 7.99,
+        "plant_url": "https://www.amazon.es/Haworthia-Natural-Interior-Pur-Plant/dp/B0DNNDH1KL"
+    },
+    "Malva-rosa": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 9.99,
+        "plant_url": "https://www.amazon.es/Planta-Spathiphyllum-Lirio-natural-maceta/dp/B09DG8J9CD"
+    },
+    "Verdolaga de flor": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Verdolaga-variada-Batlle/dp/B00WI4GA64",
+        "plant_price": 5.86,
+        "plant_url": "https://www.amazon.es/dp/B0GK69RPF7"
+    },
+    "Cosmos": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Cosmos-Doble-Batlle/dp/B00WI62ZRU",
+        "plant_price": 5.85,
+        "plant_url": "https://www.amazon.es/campanilla-decorativas-decoraci%C3%B3n-semillas-resistentes/dp/B0GJRYJNQX"
+    },
+    "D\u00e0lia": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Zinnia-Gigante-variada/dp/B00ID4OSTO",
+        "plant_price": 10.86,
+        "plant_url": "https://www.amazon.es/Petunia-Natural-Exterior-Aspecto-Elegante/dp/B0BWS23CPS"
+    },
+    "Conillet": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 2.4,
+        "plant_url": "https://www.amazon.es/Lavanda-Maceta-10-Planta-aromatica/dp/B07B7QWJ6L"
+    },
+    "Pentas": {
+        "seed_price": 50.99,
+        "seed_url": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxNDU1OTUxMjg4MzAyODA4OjE3Njk5NTU5ODk6c3BfYnRmOjMwMDgwNzMwMTM0NzczMjo6MDo6&url=%2FZenGreens%25C2%25AE-arom%25C3%25A1ticas-hortalizas-variedades-f%25C3%25A1cilmente%2Fdp%2FB0FTNPC8VV%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dsemillas%2Bpentax%26qid%3D1769955989%26sr%3D8-1-spons%26aref%3DlVMdSRVm7M%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=lVMdSRVm7M&sp_cr=ZAZ",
+        "plant_price": 9.99,
+        "plant_url": "https://www.amazon.es/Planta-Spathiphyllum-Lirio-natural-maceta/dp/B09DG8J9CD"
+    },
+    "Pe\u00f2nia": {
+        "seed_price": 2.69,
+        "seed_url": "https://www.amazon.es/Crecimiento-Germinaci%C3%B3n-Vitalidad-Producci%C3%B3n-Multicolor/dp/B0C32PG1Q3",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Lliri": {
+        "seed_price": 1.6,
+        "seed_url": "https://www.amazon.es/Semillas-Hort%C3%ADcolas-Lechuga-Inverna-Superinverna/dp/B00ID4T58I",
+        "plant_price": 9.28,
+        "plant_url": "https://www.amazon.es/PLANTA-NATURAL-AEREA-TILLANDSIA-JUNCEA/dp/B09LD6VVMK"
+    },
+    "Gladiol": {
+        "seed_price": 1.72,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Crisantemo-Tricolor-variado/dp/B00WI4DRQU",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Calathea-Roseopicta-Natural-Pur-Plant/dp/B0DVQ821YN"
+    },
+    "P\u00e8sol d'olor": {
+        "seed_price": 4.7,
+        "seed_url": "https://www.amazon.es/Guisante-olor-Lathyrus-odoratus-semillas/dp/B09XQYRPYW",
+        "plant_price": 53.95,
+        "plant_url": "https://www.amazon.es/Persicaria-Speciosa-piezas-10-25cm-Planta/dp/B0GJG95TGX"
+    },
+    "Ranuncle": {
+        "seed_price": 1.6,
+        "seed_url": "https://www.amazon.es/Semillas-Hort%C3%ADcolas-Rabanito-redondo-blanca/dp/B00ID4TWS6",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Calathea-Roseopicta-Natural-Pur-Plant/dp/B0DVQ821YN"
+    },
+    "Astrom\u00e8lia": {
+        "seed_price": 1.6,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Petunia-variada-Batlle/dp/B0787MWSTL",
+        "plant_price": 7.99,
+        "plant_url": "https://www.amazon.es/Haworthia-Natural-Interior-Pur-Plant/dp/B0DNNDH1KL"
+    },
+    "Lisianthus": {
+        "seed_price": 5.51,
+        "seed_url": "https://www.amazon.es/piezas-Semillas-Eustoma-pradera-Lisianthus/dp/B0D2M95XXL",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Paniculada": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Gipsofila-Paniculata-Batlle/dp/B016Q15QBY",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Encaix de reina": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Cosmos-Doble-Batlle/dp/B00WI62ZRU",
+        "plant_price": 8.5,
+        "plant_url": "https://www.amazon.es/Planta-Abelia-Grandiflora-Jarr%C3%B3n-Foto/dp/B0GC7K5J6P"
+    },
+    "Rosella": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Calathea-Roseopicta-Natural-Pur-Plant/dp/B0DVQ821YN"
+    },
+    "Blavet": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Rudbeckia-gigante-variada/dp/B00WI67TV2",
+        "plant_price": 16.95,
+        "plant_url": "https://www.amazon.es/Natural-Tradescantia-Condiciones-Ambientales-Proporcionar/dp/B0BLCC3FSD"
+    },
+    "Cabells de Venus": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 6.25,
+        "plant_url": "https://www.amazon.es/Semillas-atrapamoscas-interior-muscipula-decoracion/dp/B0FZJYB9PZ"
+    },
+    "Clarkia amoena": {
+        "seed_price": 37.29,
+        "seed_url": "https://www.amazon.es/CLARKS-Womens-Annadel-Ivory-Sandal/dp/B07F1G2363",
+        "plant_price": 37.29,
+        "plant_url": "https://www.amazon.es/CLARKS-Womens-Annadel-Ivory-Sandal/dp/B07F1G2363"
+    },
+    "Godetia": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 18.95,
+        "plant_url": "https://www.amazon.es/BotanicaUrbana-Planta-natural-Sansevieria-Tough/dp/B0GK2SYTPB"
+    },
+    "Flor de papallona": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Lupinus-perenne-variado/dp/B00WI64HGM",
+        "plant_price": 7.03,
+        "plant_url": "https://www.amazon.es/semillas-interior-perennes-resistentes-elevadas/dp/B0GJRV4JJ1"
+    },
+    "Baby blue eyes": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-bons%C3%A1i-crecimiento-r%C3%A1pido-semillas/dp/B09VDGR8N2",
+        "plant_price": 96.95,
+        "plant_url": "https://www.amazon.es/Agastache-Blue-Fortune-24-piezas/dp/B0GJN6FQCT"
+    },
+    "Morning glory": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Ipomea-Maravillas-Trepadora-variada/dp/B00ID4OP9M",
+        "plant_price": 4.61,
+        "plant_url": "https://www.amazon.es/Roadoor-Kletterpflanze-Borrachten-Pflanzen-Gartensamen/dp/B0F7R8Y1R2"
+    },
+    "Ulls de poeta": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Clavel-Ramillete-variado/dp/B00L2IPIDI",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Dipladenia": {
+        "seed_price": 5.84,
+        "seed_url": "https://www.amazon.es/Mandevilla-Dipladenia-semillas-decoraci%C3%B3n-resistentes/dp/B0GCM7J38W",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Jazm\u00edn de Madagascar": {
+        "seed_price": 5.42,
+        "seed_url": "https://www.amazon.es/Semillas-invierno-nudiflorum-silvestres-resistentes/dp/B0FX2QFRL8",
+        "plant_price": 9.95,
+        "plant_url": "https://www.amazon.es/DECOALIVE-Natural-Jacinto-Colores-Hyacinthus/dp/B0BWFPNMP9"
+    },
+    "Flor de cera": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/PERZOE-semillas-blancas-rosadas-decoraci%C3%B3n/dp/B0CGM76PS8",
+        "plant_price": 13.87,
+        "plant_url": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo1OTI4NTA0MDQxODI0NTk5OjE3Njk5NTYyNjA6c3BfYnRmOjMwMDgwODg2Nzk5ODUzMjo6MDo6&url=%2FBulbos-perennes-Hosta-resistencia-espa%25C3%25B1ol-C-4bulbos%2Fdp%2FB0F9L2QBMX%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dplanta%2Bnatural%2BFlor%2Bde%2Bcera%26qid%3D1769956260%26sr%3D8-1-spons%26aref%3DUskoLrhbIE%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=UskoLrhbIE&sp_cr=ZAZ"
+    },
+    "Flor de la passi\u00f3": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Hort%C3%ADcolas-Girasol-pipas-Batlle/dp/B00ID4ORYK",
+        "plant_price": 5.87,
+        "plant_url": "https://www.amazon.es/decoraci%C3%B3n-resistentes-silvestres-invernadero-decoraciones/dp/B0GFW2Q4JY"
+    },
+    "Platycodon": {
+        "seed_price": 4.75,
+        "seed_url": "https://www.amazon.es/Semillas-Campanilla-grandes-Platycodon-grandiflorus/dp/B0DNNDKFYQ",
+        "plant_price": 7.99,
+        "plant_url": "https://www.amazon.es/Haworthia-Natural-Interior-Pur-Plant/dp/B0DNNDH1KL"
+    },
+    "Flor de mico": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/PERZOE-semillas-blancas-rosadas-decoraci%C3%B3n/dp/B0CGM76PS8",
+        "plant_price": 17.0,
+        "plant_url": "https://www.amazon.es/Planta-Olivier-Mignola-Jarr%C3%B3n-Fitocella/dp/B0GDTP9Q3G"
+    },
+    "Gloxinia": {
+        "seed_price": 5.76,
+        "seed_url": "https://www.amazon.es/Semillas-gloxinia-Semillas-decoraci%C3%B3n-cortadas-semillas-resistente/dp/B0FXFWS5MY",
+        "plant_price": 22.95,
+        "plant_url": "https://www.amazon.es/dp/B0GK9CHXDK"
+    },
+    "Gaura": {
+        "seed_price": 4.8,
+        "seed_url": "https://www.amazon.es/lindheimeri-semillas-floraci%C3%B3n-naturaleza-compa%C3%B1ero/dp/B0BTDL3TRC",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Milfulles": {
+        "seed_price": 2.69,
+        "seed_url": "https://www.amazon.es/Vibras-Calma-Bienestar-Digital-Equilibrada-ebook/dp/B0GGZSFFNM",
+        "plant_price": 15.95,
+        "plant_url": "https://www.amazon.es/Spathiphyllum-Planta-Interior-Natural-Espatifilo/dp/B08RY1VY7P"
+    },
+    "Herba de l'enamorat": {
+        "seed_price": 1.4,
+        "seed_url": "https://www.amazon.es/Semillas-Hierbabuena-Medicinal-Culinario-Spicata/dp/B0CSG3J24K",
+        "plant_price": 1.4,
+        "plant_url": "https://www.amazon.es/Semillas-Hierbabuena-Medicinal-Culinario-Spicata/dp/B0CSG3J24K"
+    },
+    "Margarida de paret": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Hort%C3%ADcolas-Girasol-pipas-Batlle/dp/B00ID4ORYK",
+        "plant_price": 6.09,
+        "plant_url": "https://www.amazon.es/dp/B0GKD85K44"
+    },
+    "Estepa": {
+        "seed_price": 4.8,
+        "seed_url": "https://www.amazon.es/tauricus-semillas-arom%C3%A1tica-resistente-medicinal/dp/B0CCDN7VCC",
+        "plant_price": 5.2,
+        "plant_url": "https://www.amazon.es/Hierbabuena-Maceta-19-Planta-aromatica/dp/B07B7PST75"
+    },
+    "Curri": {
+        "seed_price": 5.86,
+        "seed_url": "https://www.amazon.es/resistentes-reverdecimiento-silvestres-semillas-elevadas/dp/B0GG8RDRNK",
+        "plant_price": 2.23,
+        "plant_url": "https://www.amazon.es/Curry-planta-arom%C3%A1tica-viva-maceta/dp/B0G4W5J54Z"
+    },
+    "Espernallac": {
+        "seed_price": 6.45,
+        "seed_url": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo1NDI4MjYzNDM4Nzg5OTI4OjE3Njk5NTYzOTI6c3BfYnRmOjMwMDY3MDUwODIyODYzMjo6MDo6&url=%2FSemillas-rojo-Arce-Japon%25C3%25A9s-atropurpureum%2Fdp%2FB01KXI4J7S%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dsemillas%2BEspernallac%26qid%3D1769956392%26sr%3D8-1-spons%26aref%3DQgfgEsWzaO%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=QgfgEsWzaO&sp_cr=ZAZ",
+        "plant_price": 17.31,
+        "plant_url": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxNjExNTUxMzQ3MDcwNjAyOjE3Njk5NTY0MDA6c3BfYnRmOjIwMDg4OTY4MjYyNjk4OjowOjo&url=%2FDECOALIVE-Planta-Madagascar-Natural-Interior%2Fdp%2FB09YRKZQ6R%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dplanta%2Bnatural%2Besperma%26qid%3D1769956400%26sr%3D8-1-spons%26aref%3Dv7ev94Aamm%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=v7ev94Aamm&sp_cr=ZAZ"
+    },
+    "Valeriana vermella": {
+        "seed_price": 1.72,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Crisantemo-Tricolor-variado/dp/B00WI4DRQU",
+        "plant_price": 1.88,
+        "plant_url": "https://www.amazon.es/Semillas-Flores-Inmortal-Siempreviva-variada/dp/B00WI4FY0M"
+    },
+    "Talla-focs": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/Semillas-Fit%C3%B3-Clavel-Gigante-Variado/dp/B01IDLD9LE",
+        "plant_price": 19.95,
+        "plant_url": "https://www.amazon.es/BotanicaUrbana-Planta-natural-Hedera-incluida/dp/B0GK1Z6BX7"
+    },
+    "Nepeta": {
+        "seed_price": 1.6,
+        "seed_url": "https://www.amazon.es/Semillas-Hort%C3%ADcolas-Virtudes-Martillo-precoz-Batlle/dp/B00ID4U0TQ",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "S\u00e0lvia russa": {
+        "seed_price": 1.69,
+        "seed_url": "https://www.amazon.es/Semillas-Ecol%C3%B3gicas-Arom%C3%A1ticas-Or%C3%A9gano-Batlle/dp/B00ID4THGI",
+        "plant_price": 1.55,
+        "plant_url": "https://www.amazon.es/Semillas-Fit%C3%B3-2607-Salvia-Officinalis/dp/B017BQL36K"
+    },
+    "Flor de paper": {
+        "seed_price": 1.45,
+        "seed_url": "https://www.amazon.es/Semilla-Clavel-gigante-blanco-Semillas/dp/B079X2R84V",
+        "plant_price": 11.0,
+        "plant_url": "https://www.amazon.es/Planta-Variada-Ancho-Altura-Jarr%C3%B3n/dp/B0GC7C8FZ5"
+    },
+    "Verbena bonariensis": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-bons%C3%A1i-crecimiento-r%C3%A1pido-semillas/dp/B09VDGR8N2",
+        "plant_price": 14.91,
+        "plant_url": "https://www.amazon.es/Exterior-Verbena-Hybrida-Colores-Natural/dp/B0BTMQ3QGJ"
+    },
+    "Neu d'estiu": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 24.95,
+        "plant_url": "https://www.amazon.es/BotanicaUrbana-Planta-natural-Sansevieria-Laurentii/dp/B0GK33H1Q6"
+    },
+    "Alyssum": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Mezcla-enanas-anuales/dp/B00ID4OYFW",
+        "plant_price": 6.28,
+        "plant_url": "https://www.amazon.es/Semillas-rosa-Navidad-resistente-variedades/dp/B0GJCPRBLD"
+    },
+    "Aubrieta": {
+        "seed_price": 2.7,
+        "seed_url": "https://www.amazon.es/Germisem-Hendersonni-Semillas-Aubrieta-EC1505/dp/B08RTJNBWN",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Iberis sempervirens": {
+        "seed_price": 1.72,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Crisantemo-Tricolor-variado/dp/B00WI4DRQU",
+        "plant_price": 3.5,
+        "plant_url": "https://www.amazon.es/Kalanchoe-Planta-Natural-Colores-Surtidos/dp/B07CGTPPB6"
+    },
+    "Phlox de molsa": {
+        "seed_price": 2.85,
+        "seed_url": "https://www.amazon.es/Rocalba-Semilla-Musa-bananera/dp/B079X391DM",
+        "plant_price": 22.95,
+        "plant_url": "https://www.amazon.es/dp/B0GK9CHXDK"
+    },
+    "Clavellina": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Calathea-Roseopicta-Natural-Pur-Plant/dp/B0DVQ821YN"
+    },
+    "Festuca blava": {
+        "seed_price": 1.88,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Verbena-Variada-H%C3%ADbrida/dp/B00WI64OYM",
+        "plant_price": 14.95,
+        "plant_url": "https://www.amazon.es/Planta-HIERBABUENA-Natural-Interior-Exterior/dp/B0CV5MF91Y"
+    },
+    "Stipa tenuissima": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 6.08,
+        "plant_url": "https://www.amazon.es/Semillas-tenuissima-perennes-resistentes-balcones/dp/B0GHYDY5P2"
+    },
+    "Echinops": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-Flores-Capuchina-variada-Batlle/dp/B00L2IPD74",
+        "plant_price": 7.99,
+        "plant_url": "https://www.amazon.es/Haworthia-Natural-Interior-Pur-Plant/dp/B0DNNDH1KL"
+    },
+    "Eryngium": {
+        "seed_price": 1.6,
+        "seed_url": "https://www.amazon.es/Semillas-Hort%C3%ADcolas-Achicoria-Palla-Batlle/dp/B00KM28TFE",
+        "plant_price": 8.99,
+        "plant_url": "https://www.amazon.es/Syngonium-Planta-Natural-Pur-Plant/dp/B0DVQ7HP8D"
+    },
+    "Erigeron speciosus": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/Semillas-bons%C3%A1i-crecimiento-r%C3%A1pido-semillas/dp/B09VDGR8N2",
+        "plant_price": 14.95,
+        "plant_url": "https://www.amazon.es/Asparagus-Plumosus-DECOALIVE-Esparraguera-Interior/dp/B0B87V9WCC"
+    },
+    "Limonium latifolium": {
+        "seed_price": 1.0,
+        "seed_url": "https://www.amazon.es/semillas-crecimiento-peque%C3%B1as-nutritivas-prol%C3%ADficas/dp/B09VT6BZS6",
+        "plant_price": 12.95,
+        "plant_url": "https://www.amazon.es/DECOALIVE-Natural-Lavandula-Exterior-Interior/dp/B09X6XPHXG"
+    }
+}
